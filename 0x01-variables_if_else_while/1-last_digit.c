@@ -3,7 +3,7 @@
 #include <stdio>
 /**
  * main - This program prints the last digit of a number
- * Description: and determine whether it is greater than 5, less than 6, or 0.
+ * Description: and determine whether it is greater than 5, less than 6, or 0
  *
  * Return 0 (Success)
  *
